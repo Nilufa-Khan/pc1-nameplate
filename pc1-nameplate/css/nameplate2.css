@@ -50,3 +50,10 @@
     background-color: rgb(139, 139, 174);
 
 }
+a{
+    text-decoration: none;
+    color: white;
+}
+li{
+    list-style-type:none;
+}
