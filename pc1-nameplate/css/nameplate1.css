@@ -14,31 +14,41 @@
     padding-bottom: 10px;
     color: white;
 }
+a{
+    text-decoration: none;
+    color:white;    
+}
+li{
+    list-style-type: none;
+}
 
 .pointsA{
     float: left;
     margin-left: 150px;
-    padding: 10px;
+    padding: 20px;
     
 }
 .pointsB{
     float: left;
     margin-left: 5px;
-    padding: 10px;
+    padding: 20px;
     
 }
 .pointsC{
     float: left;
     margin-left: 5px;
-    padding: 10px;
+    padding: 20px;
     
 }
 .points1{
     float: left;
-    margin-left: 290px;
+    margin-left: 260px;
     padding: 10px;
     border-radius: 10px;
+    margin-top: 10px;
+    text-align: center;
     border: 1px solid blue;
+    width: 45px;
     background-color: rgb(139, 139, 174);
 
 }
